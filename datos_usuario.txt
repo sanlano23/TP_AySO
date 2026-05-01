@@ -1,3 +1,4 @@
 Usuario=santi
 
 model name	: AMD Ryzen 5 5600G with Radeon Graphics
+model name	: AMD Ryzen 5 5600G with Radeon Graphics
